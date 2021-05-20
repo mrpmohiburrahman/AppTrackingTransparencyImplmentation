@@ -51,5 +51,8 @@
 	<false/>
   <key>UIStatusBarStyle</key>
   <string>UIStatusBarStyleDefault</string>
+  <key>NSUserTrackingUsageDescription</key>
+  <string>this line will be shown to the user in the pop up when asking for permission</string>
+  
 </dict>
 </plist>
